@@ -1,15 +1,15 @@
-# ulauncher-viridian-theme
-A simple theme green viridian to ulauncher
+# Ulauncher Viridian Theme
 
-## Screenshots
+Ulauncher Viridian Theme is a simple and elegant green theme designed for Ulauncher.
 
-![SS](Screenshots/sample.png)
+## Key Features:
 
-![SS](Screenshots/fuzzy-find.png)
-
-![SS](Screenshots/sample-find-file.png)
+- Clean and minimalistic design
+- Green viridian color scheme for a refreshing look
 
 ## Installation
+
+1. Clone this repository to your Ulauncher themes directory:
 
 ```sh
 
@@ -18,8 +18,17 @@ git clone https://github.com/arthurrio/ulauncher-viridian-theme \
   ~/.config/ulauncher/user-themes/Viridian
 
 ```
-# Credits
+2. Open Ulauncher preferences and select the "Viridian Theme" from the list of available themes.
+
+## Screenshots
+
+![SS](Screenshots/sample.png)
+
+![SS](Screenshots/fuzzy-find.png)
+
+## Credits
 I used the [Tokyo Night theme](https://github.com/SirHades696/TokyoNight-Ulauncher-Theme) as a foundation for my project. My work is inspired by and references the TokyoNight theme.
 
-The TokyoNight theme, in turn, is inspired by the [Surendrajat project](https://github.com/Surendrajat/SeaOwl-Ulauncher-theme)   .
+The TokyoNight theme, in turn, is inspired by the [Surendrajat project](https://github.com/Surendrajat/SeaOwl-Ulauncher-theme) 
 
+All Ulauncher themes, including Viridian, can be found [here](https://gist.github.com/gornostal/02a232e6e560da7946c053555ced6cce).
