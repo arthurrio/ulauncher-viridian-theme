@@ -1,6 +1,13 @@
 # ulauncher-viridian-theme
 A simple theme green viridian to ulauncher
 
+## Screenshots
+
+![SS](TScreenshots/sample.png)
+
+![SS](Screenshots/fuzzy-find.png)
+
+![SS](Screenshots/sample-find-file.png)
 
 ## Installation
 
