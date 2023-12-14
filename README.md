@@ -12,5 +12,5 @@ git clone https://github.com/arthurrio/ulauncher-viridian-theme \
 
 ```
 # Credits
-I used project [Tokyo Night theme](https://github.com/SirHades696/TokyoNight-Ulauncher-Theme) like a base to my project
-The theme TokyoNight was reference to create this one.
+I utilized the [Tokyo Night theme](https://github.com/SirHades696/TokyoNight-Ulauncher-Theme) as a foundation for my project. 
+My work is inspired by and references the TokyoNight theme.
