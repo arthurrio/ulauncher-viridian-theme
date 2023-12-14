@@ -13,9 +13,9 @@ A simple theme green viridian to ulauncher
 
 ```sh
 
-mkdir -p ~/.config/ulauncher/user-themes
+mkdir -p ~/.config/ulauncher/user-themes/Viridian
 git clone https://github.com/arthurrio/ulauncher-viridian-theme \
-  ~/.config/ulauncher/user-themes/
+  ~/.config/ulauncher/user-themes/Viridian
 
 ```
 # Credits
