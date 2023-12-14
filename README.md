@@ -1,6 +1,6 @@
 # Ulauncher Viridian Theme
 
-Ulauncher Viridian Theme is a simple and elegant green theme designed for Ulauncher.
+Ulauncher Viridian Theme is a simple and elegant green theme designed for [Ulauncher](https://ulauncher.io/).
 
 ## Key Features:
 
