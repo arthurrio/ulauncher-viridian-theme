@@ -22,9 +22,7 @@ git clone https://github.com/arthurrio/ulauncher-viridian-theme \
 
 ## Screenshots
 
-![SS](Screenshots/sample.png)
-
-![SS](Screenshots/fuzzy-find.png)
+![image](https://github.com/arthurrio/ulauncher-viridian-theme/assets/72942190/51fffe65-7383-429e-a6b3-acd4a2d5ca5c)
 
 ## Credits
 I used the [Tokyo Night theme](https://github.com/SirHades696/TokyoNight-Ulauncher-Theme) as a foundation for my project. My work is inspired by and references the TokyoNight theme.
