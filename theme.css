@@ -34,6 +34,7 @@
     border: 2px solid @window_border_color;
     border-radius: 30px;
     margin: 0 -20px;
+    box-shadow: none;
 }
 
 .input {
